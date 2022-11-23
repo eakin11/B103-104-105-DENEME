@@ -7,3 +7,4 @@ GitGitHUB ikinci gun ercan branchi ikinci deneme
 GitGitHUB ikinci gun akin branchi birinci deneme.......................
 GitGitHUB ikinci gun ucuncu ilk  deneme 
 GitGitHUB ucuncu gun ikinci  deneme 
+Master branch yeni ekleme
