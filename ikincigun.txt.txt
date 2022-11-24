@@ -5,3 +5,4 @@ GitGitHUB ikinci gun ercan branchi deneme
 GitGitHUB ikinci gun Master  branchi deneme
 GitGitHUB ikinci gun ercan branchi ikinci deneme
 GitGitHUB  ucuncu gun ilk deneme
+GitGitHUB  ucuncu gun ikinci deneme
